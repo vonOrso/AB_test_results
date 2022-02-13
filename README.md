@@ -24,4 +24,5 @@ Statistics:
   - ci 95% Reatment group: [0.107, 0.126]
 
 The calculated p-value is much greater than 0.05, which means that the null hypothesis cannot be rejected. Interestingly, our theoretical estimate of 14% conversion on a new page is not even within the confidence interval. Thus, we determined that the old design with cats and the more neutral new one are not much different from each other.
+
 ![download](https://user-images.githubusercontent.com/43719238/153754001-f49fe25a-10e9-45c5-924f-0d09f8047519.png)
